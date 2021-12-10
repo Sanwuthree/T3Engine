@@ -1,4 +1,4 @@
-package main
+package T3Engine
 
 import "fmt"
 
