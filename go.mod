@@ -1,4 +1,4 @@
-module github.com/Sanwuthree/T3Engine
+module github.com/sanwuthree/moonrabbit
 
 go 1.17
 
